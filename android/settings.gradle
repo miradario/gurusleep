@@ -1,0 +1,18 @@
+rootProject.name = 'TLEXFlow'
+include ':react-native-purchases'
+project(':react-native-purchases').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-purchases/android')
+
+apply from: '../node_modules/react-native-unimodules/gradle.groovy'
+includeUnimodulesProjects()
+
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
+applyNativeModulesSettingsGradle(settings)
+
+include ':unimodules-core'
+project(':unimodules-core').projectDir = new File(rootProject.projectDir, '../node_modules/@unimodules/core/android')
+
+include ':app'
+ 
+include ':react-native-matomo'
+project(':react-native-matomo').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-matomo/android/')
+ 

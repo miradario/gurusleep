@@ -1,0 +1,352 @@
+{
+  "EN" : {
+    "Breathingtool" : {
+      "Breath001" : {
+        "Cover" : "meditate_orig.jpg",
+        "Description" : "Sudarshan Kriya guided meditation",
+        "thumbnail" : "meditate.jpg",
+        "title" : "Sudarshan Kriya",
+        "type" : "audio"
+      },
+      "Yoga001" : {
+        "Cover" : "breathe_orig.jpg",
+        "Description" : "Morning Streching for body health",
+        "thumbnail" : "breathe.jpg",
+        "title" : "Morning Streching",
+        "type" : "video"
+      },
+      "Yoga002" : {
+        "Cover" : "meditate_orig.jpg",
+        "Description" : "Morning Streching for body health",
+        "thumbnail" : "meditate.jpg",
+        "title" : "Afternoon Streching",
+        "type" : "video"
+      }
+    },
+    "DesktopYoga" : {
+      "Yoga001" : {
+        "Cover" : "breathe_orig.jpg",
+        "Description" : "Morning Streching for body health",
+        "thumbnail" : "breathe.jpg",
+        "title" : "Morning Streching",
+        "type" : "video"
+      },
+      "Yoga002" : {
+        "Cover" : "meditate_orig.jpg",
+        "Description" : "Morning Streching for body health",
+        "thumbnail" : "meditate.jpg",
+        "title" : "Afternoon Streching",
+        "type" : "video"
+      },
+      "Yoga003" : {
+        "Cover" : "breathe_orig.jpg",
+        "Description" : "Morning Streching for body health",
+        "thumbnail" : "breathe.jpg",
+        "title" : "Morning Streching",
+        "type" : "video"
+      },
+      "Yoga004" : {
+        "Cover" : "meditate_orig.jpg",
+        "Description" : "Morning Streching for body health",
+        "thumbnail" : "meditate.jpg",
+        "title" : "Afternoon Streching",
+        "type" : "video"
+      },
+      "Yoga005" : {
+        "Cover" : "meditate_orig.jpg",
+        "Description" : "Morning Streching for body health",
+        "thumbnail" : "meditate.jpg",
+        "title" : "Afternoon Streching",
+        "type" : "video"
+      },
+      "Yoga006" : {
+        "Cover" : "meditate_orig.jpg",
+        "Description" : "Morning Streching for body health",
+        "thumbnail" : "meditate.jpg",
+        "title" : "Afternoon Streching",
+        "type" : "video"
+      }
+    },
+    "List" : {
+      "Breath001" : {
+        "Cover" : "breathe_orig.jpg",
+        "title" : "Sudarshan Kriya",
+        "type" : "audio",
+        "url" : "TlexKriyaMusicInPrana.mp3"
+      },
+      "Yoga001" : {
+        "Cover" : "morning.jpg",
+        "title" : "Morning Streching",
+        "type" : "video",
+        "url" : 358146529
+      },
+      "Yoga002" : {
+        "Cover" : "afternoon.jpg",
+        "title" : "Afternoon Streching",
+        "type" : "video",
+        "url" : "342097198/26272d6ecf97198"
+      }
+    }
+  },
+  "GE" : {
+    "Breathingtool" : {
+      "Btool001" : {
+        "Cover" : "sky_cover.jpg",
+        "Description" : "Anleitung für die drei Stufenatmung, den Blasebalg und die SKY.",
+        "thumbnail" : "sky_thum.jpg",
+        "title" : "Atemübungen und SKY",
+        "type" : "video"
+      }
+    },
+    "DesktopYoga" : {
+      "Yoga001" : {
+        "Cover" : "desktop_yoga_cover.jpg",
+        "Description" : "Dehnübungen für deinen Körper die du am Schreibtisch machen kannst.",
+        "thumbnail" : "desktop_yoga_thum.jpg",
+        "title" : "Desktop Stretching",
+        "type" : "video"
+      }
+    },
+    "List" : {
+      "Btool001" : {
+        "Cover" : "sky_cover.jpg",
+        "title" : "Atemübungen und SKY",
+        "type" : "video",
+        "url" : "361690317/33b4d73b7f"
+      },
+      "Yoga001" : {
+        "Cover" : "desktop_yoga_cover.jpg",
+        "title" : "Desktop Stretching",
+        "type" : "video",
+        "url" : "361683374/4c462678fd"
+      },
+      "relax006" : {
+        "Cover" : "body_scan_cover.jpg",
+        "title" : "Body Scan",
+        "type" : "audio",
+        "url" : "06_BodyScan.mp3"
+      },
+      "relax007" : {
+        "Cover" : "face_relax_cover.jpg",
+        "title" : "Gesichtsentspannung",
+        "type" : "audio",
+        "url" : "07_Gesichtsentspannung.mp3"
+      },
+      "relax008" : {
+        "Cover" : "contentment_cover.jpg",
+        "title" : "Zufriedenheit",
+        "type" : "audio",
+        "url" : "08_FindeDeinInneresLacheln.mp3"
+      },
+      "relax009" : {
+        "Cover" : "clear_cover.jpg",
+        "title" : "Klare Gedanken",
+        "type" : "audio",
+        "url" : "09_KlareGedanken.mp3"
+      },
+      "relax010" : {
+        "Cover" : "nothing_cover.jpg",
+        "title" : "Nichts tun",
+        "type" : "audio",
+        "url" : "10_NichtsTun.mp3"
+      },
+      "relax011" : {
+        "Cover" : "relaxation_cover.jpg",
+        "title" : "Entspannung",
+        "type" : "audio",
+        "url" : "11_FreiheitundEntspannung.mp3"
+      },
+      "relax012" : {
+        "Cover" : "awarness_cover.jpg",
+        "title" : "Entspanntes Gewahrsein",
+        "type" : "audio",
+        "url" : "12_Entspanntes Gewahrsein.mp3"
+      },
+      "relax013" : {
+        "Cover" : "energize_cover.jpg",
+        "title" : "Entspanntes Gewahrsein",
+        "type" : "audio",
+        "url" : "13_EnergetisiereDeinenKorper.mp3"
+      },
+      "relax014" : {
+        "Cover" : "eyes_cover.jpg",
+        "title" : "Entspannte Augen",
+        "type" : "audio",
+        "url" : "14_EntspannteAugen.mp3"
+      },
+      "relax015" : {
+        "Cover" : "harmony_cover.jpg",
+        "title" : "Innere Harmonie",
+        "type" : "audio",
+        "url" : "15_InnereHarmonie.mp3"
+      },
+      "relax016" : {
+        "Cover" : "flow_cover.jpg",
+        "title" : "Flow",
+        "type" : "audio",
+        "url" : "16_TiefeEntspannung.mp3"
+      },
+      "relax018" : {
+        "Cover" : "focus_cover.jpg",
+        "title" : "Fokus und Klarheit gewinnen",
+        "type" : "audio",
+        "url" : "18_FocusundKlarheitGewinnen.mp3"
+      },
+      "relax019" : {
+        "Cover" : "sleep_cover.jpg",
+        "title" : "Besser schlafen",
+        "type" : "audio",
+        "url" : "19_GutSchlafen.mp3"
+      },
+      "relax020" : {
+        "Cover" : "inner_contentment_cover.jpg",
+        "title" : "Innere Zufriedenheit",
+        "type" : "audio",
+        "url" : "14_EntspannteAugen.mp3"
+      },
+      "relax021" : {
+        "Cover" : "inner_contentment_cover.jpg",
+        "title" : "Innere Balance finden",
+        "type" : "audio",
+        "url" : "21_InnereBalanceFinden.mp3"
+      }
+    },
+    "Relaxation" : {
+      "relax006" : {
+        "Cover" : "body_scan_cover.jpg",
+        "Description" : "BEntspannen und Blockaden im K�rper l�sen",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "3 Minuten",
+        "thumbnail" : "body_scan_thum.jpg",
+        "title" : "Body Scan",
+        "type" : "audio"
+      },
+      "relax007" : {
+        "Cover" : "face_relax_cover.jpg",
+        "Description" : "Die Aufmerksamkeit auf die verschiedenen Gesichtspartien richten und sie entspannen",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "3 Minuten",
+        "thumbnail" : "face_relax_thum.jpg",
+        "title" : "Gesichtsentspannung",
+        "type" : "audio"
+      },
+      "relax008" : {
+        "Cover" : "contentment_cover.jpg",
+        "Description" : "Neue Kraft, Freude und Energie gewinnen",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "3 Minuten",
+        "thumbnail" : "contentment_thum.jpg",
+        "title" : "Zufriedenheit",
+        "type" : "audio"
+      },
+      "relax009" : {
+        "Cover" : "clear_cover.jpg",
+        "Description" : "Klare Gedanken fassen",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "5 Minuten",
+        "thumbnail" : "clear_thum.jpg",
+        "title" : "Klare Gedanken",
+        "type" : "audio"
+      },
+      "relax010" : {
+        "Cover" : "nothing_cover.jpg",
+        "Description" : "Stress loslassen und abschalten",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "5 Minuten",
+        "thumbnail" : "nothing_thum.jpg",
+        "title" : "Nichts tun",
+        "type" : "audio"
+      },
+      "relax011" : {
+        "Cover" : "relaxation_cover.jpg",
+        "Description" : "Die Achtsamkeit auf den K�rper richten um tief zu entspannen",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "5 Minuten",
+        "thumbnail" : "relaxation_thum.jpg",
+        "title" : "Entspannung",
+        "type" : "audio"
+      },
+      "relax012" : {
+        "Cover" : "awarness_cover.jpg",
+        "Description" : "Intuiton und Klarheit finden",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "10 Minuten",
+        "thumbnail" : "awarness_thum.jpg",
+        "title" : "Entspanntes Gewahrsein",
+        "type" : "audio"
+      },
+      "relax013" : {
+        "Cover" : "energize_cover.jpg",
+        "Description" : "Den K�rper energetisieren",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "10 Minuten",
+        "thumbnail" : "energize_thum.jpg",
+        "title" : "Energetisiere deinen K�rper",
+        "type" : "audio"
+      },
+      "relax014" : {
+        "Cover" : "eyes_cover.jpg",
+        "Description" : "Die Augen von der Arbeit am Bildschirm entspannen",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "10 Minuten",
+        "thumbnail" : "eyes_thum.jpg",
+        "title" : "Entspannte Augen",
+        "type" : "audio"
+      },
+      "relax015" : {
+        "Cover" : "harmony_cover.jpg",
+        "Description" : "Den K�rper bewusst wahrnehmen und inner Balance finden",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "15 Minuten",
+        "thumbnail" : "harmony_thum.jpg",
+        "title" : "Innere Harmonie",
+        "type" : "audio"
+      },
+      "relax016" : {
+        "Cover" : "flow_cover.jpg",
+        "Description" : "Entspanntes Gewahrsein erfahren durch eine K�rper-Reise",
+        "category" : "Meine Achtsamkeitspause",
+        "duration" : "15 Minuten",
+        "thumbnail" : "flow_thum.jpg",
+        "title" : "Flow",
+        "type" : "audio"
+      },
+      "relax018" : {
+        "Cover" : "focus_cover.jpg",
+        "Description" : "Entspannte Konzentriertheit finden",
+        "category" : "Meine Achtsamkeitsziele",
+        "duration" : "",
+        "thumbnail" : "focus_thum.jpg",
+        "title" : "Fokus und Klarheit gewinnen",
+        "type" : "audio"
+      },
+      "relax019" : {
+        "Cover" : "sleep_cover.jpg",
+        "Description" : "K�rper und Geist entspannen als Vorbereitung f�r einen tiefen Schlaf",
+        "category" : "Meine Achtsamkeitsziele",
+        "duration" : "",
+        "thumbnail" : "sleep_thum.jpg",
+        "title" : "Besser schlafen",
+        "type" : "audio"
+      },
+      "relax020" : {
+        "Cover" : "inner_contentment_cover.jpg",
+        "Description" : "Positive Gef�hle aktivieren",
+        "category" : "Meine Achtsamkeitsziele",
+        "duration" : "",
+        "thumbnail" : "inner_contentment_thum.jpg",
+        "title" : "Innere Zufriedenheit",
+        "type" : "audio"
+      },
+      "relax021" : {
+        "Cover" : "balance_cover.jpg",
+        "Description" : "Eine Ruhepause einlegen um in die innere Balance zu finden",
+        "category" : "Meine Achtsamkeitsziele",
+        "duration" : "",
+        "thumbnail" : "balance_thum.jpg",
+        "title" : "Innere Balance finden",
+        "type" : "audio"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "version": "1.1.6",
+    "orientation": "portrait",
+    "privacy": "public",
+    "icon": "./assets/app_icon.png",
+    "primaryColor": "#FFFFFF",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "backgroundColor": "#FFFFFF",
+      "resizeMode": "cover"
+    },
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#d3d3d3"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "otf",
+        "ttf"
+      ]
+    },
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyAp5sSdF2WZjOPMN714lDBJIvmirOscli0",
+          "measurementId": "G-D6XRF5GB2Q"
+        }
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.tlexinstitute.tlexmindfullness",
+      "buildNumber": "2",
+      "requireFullScreen": true,
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      }
+    },
+    "android": {
+      "package": "com.tlexinsitute.tlexmindfullness",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 43
+    },
+    "assetBundlePatterns": [
+      "assets/*",
+      "src/assets/*"
+    ],
+    "name": "TLEX Flow",
+    "slug": "tlex-app",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": "Tlex when heavy becomes lighter",
+    "githubUrl": "https://github.com/miradario/GD-Tlex",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "sdkVersion": "39.0.0"
+  }
+}

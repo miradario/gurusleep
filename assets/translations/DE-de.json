@@ -1,0 +1,292 @@
+{
+    
+    "Login": {
+        "login": "Anmelden", 
+        "user": "Benutzer",
+        "signin": "Registrieren",
+        "dont_have": "Noch nicht registriert? Registrieren" ,
+        "remember": "Passwort vergessen? ",
+        "forgot": "Passwort vergessen",
+        "check": "Überprüfen Sie Ihren Posteingang"
+    },
+    "Signup":{
+        "name": "Name",
+        "email": "E-mail", 
+        "password": "Passwort",
+        "workshop": "Ich habe einen Workshop-Code",
+        "enterWorkshop": "Workshop-Code eingeben",
+        "already": "Sie haben bereits ein Konto?", 
+        "signin":"Mit Ihrer Anmeldung erklären Sie sich einverstanden mit unseren", 
+        "terms":"Datenschutzrichtlinien",
+        "signup":"Registrieren", 
+        "login":"Anmelden",
+        "limit": "Limit der Benutzer überschritten, auf die Sie nicht zugreifen können.",
+        "workshop_code": "Workshop-Code falsch."
+    },
+    
+    "Challenge" : {
+        "abandoned": "offen",
+        "current": "Aktuelle",
+        "notstarted": "Nicht gestartet",
+        "finished": "Beendet",
+        "createChallenge": "Neue Challenge",
+        "completed":"abgeschlossen",
+        "editChallenge": "Challenge bearbeiten",
+        "title": "Name meiner Challenge",
+        "what": "Was werde ich in den nächsten 21 Tagen tun?",
+        "start_date": "Startdatum",
+        "next": "Weiter",
+        "delete": "löschen",
+        "icon": "Symbol",
+        "time":"Zu welchem Zeitpunkt möchte ich es umsetzen?",
+        "why": "Warum wähle ich diese Challenge?",
+        "success": "Wie kann ich meinen Erfolg messen?",
+        "problems": "Auf welche Hindernisse werde ich stoßen? Wie werde ich sie überwinden?", 
+ 
+        "validation": "Challenge validieren",
+        "fill": "Bitte fülle alle Felder aus und wähle eine Symbolherausforderung",
+ 
+        "mountain": "Berg-Bild",
+        "add": "hinzufügen",
+        "update": "Aktualisieren", 
+        "limit": "Limit erreicht - Maximal 3 Herausforderungen gleichzeitig",
+        "no_completed": "Es wurden noch keine Herausforderungen abgeschlossen"
+    },
+    "Walkthrough" : {
+        "offers": "TLEX bietet maßgeschneiderte Trainings zu Achtsamkeit, \n Agilität und Führung an.",  
+        "inspire" :"Wir inspirieren Mitarbeiter und Unternehmen \n zu dem Besten zu werden, was sie sein können. \n Dabei fokussieren wir uns auf \n die Schaffung von persönlicher \n Agilität, Teamgeist und Commitment.",
+        "access": "Unsere TLEX Flow App bietet Dir Zugang zu exklusiven  \n Tools und Übungen, die in unseren Workshops unterrichtet werden.",        
+        "more": " Weitere Informationen über unsere Trainingsprogrammen findest Du unter Mehr.", 
+        "next" : "Weiter",
+        "behavior": "Verhalten zu ändern ist keine leichte Aufgabe.",
+        "challenge": "Im Abschnitt Challenge der App \n ermutigen wir Dich, eine Gewohnheit oder ein Verhalten \n zu wählen, dass Du in Deinem täglichen Leben ändern möchtest (z.B. \n täglich eine Achtsamkeitsübung machen) oder etwas, \n dass Du nicht mehr tun möchtest (z.B. aufhören, mit dem Handy \n in der Hand zu essen).",
+        "follow": "Folge den Schritten und beginne Deine transformierende \n Reise HEUTE!",
+        "continue": "Weiter", 
+        "welcome": "Herzlich willkommen. Deine kostenlose 7-tägige Probeversion beginnt jetzt.",
+        "content": "Greife mit Deinem Workshop-Code auf alle Inhalte zu \n oder wähle jetzt Deinen Abonnement-Plan.",
+        "unlock": "Unbegrenzten Zugang freischalten",
+        "continuefree":  "Weiter mit beschränktem Zugang" 
+    },
+    "Purchase": {
+        "unlock": "TLEX Flow freischalten",
+        "meditation": "60+ geführte Achtsamkeitsübungen, die Dir helfen werden, Dich zu entspannen, zu konzentrieren und Deine Energie zu steigern",
+        "breathing": "Atemübungen, die eine unmittelbare positive Wirkung auf Körper und Geist haben",
+        "special": "Spezielle Techniken, die Du an Deinem Arbeitsplatz einsetzen kannst, um Fokus wiederzugewinnen, Deine Kreativität zu steigern und in den Zustand des Flow zu gelangen", 
+        "sleep": "Geführte Meditationen zur Verbesserung deiner Schlafqualität",
+        "music": "Exklusive Musiktitel zum Entspannen",
+        "walks": "Geführte Achtsamkeitsspaziergänge",
+        "new": "Ständige Aktualisierungen und neue Funktionen",
+        "monthly": "Monatlich",
+        "billed_monthly" : "Monatliche Abrechnung",
+        "most":"Am beliebtesten",
+        "yearly": "Jährlich",
+        "billed_yearly" : "Jährliche Abrechnung",
+        "lifetime": "Lebenslang",
+        "once" : "Einmalige Abrechnung",
+        "terms": "Abonnement-Bedingungen:",
+        "subscription": "Das TLEX Flow Abonnement verlängert sich automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor Ablauf der laufenden Periode abgeschaltet. Die Zahlung erfolgt zu Ihren Lasten.",
+        "suscription2": "Konto. Verwalten Sie Abonnements und die automatische Abonnement-Verlängerung in den Kontoeinstellungen",
+        "workshop1" : "Wenn Du einen Workshop-Code hast, klicke auf",
+        "here": "hier" ,
+        "insert_code" : "und füge den Code ein, um auf Premium-Inhalte zuzugreifen.",
+        "terms_policy": "Bedingungen und Datenschutzerklärung"
+    },
+     "Mountain": {
+        "edit":"Bearbeiten",
+        "info":"Info",
+        "what":"Was",
+        "When":"Wann",
+        "start_date": "Startdatum",
+        "missed": "Verpasst",
+        "check":"Tag abschließen",
+        "close":"Schließen",
+        "challenges": "Challenges",
+        "checked":"Tag nicht abgeschlossen!",
+        "check_day": "Überprüfe diesen Tag"
+    },
+    "Home": {
+        "takeadeep": "Atempause",
+        "hi": "Hi",
+        "last_challenge":" Deine letzte Challenge",
+        "no_challenges":"Du hast keine aktiven Challenges",
+        "createChallenge": "Neue Challenge",   
+        "list": "Liste der Elemente",
+        "favourites": "Favoriten",
+        "downloads": "Downloads",
+        "press_any": "Drücke auf das Herzsymbol in einem beliebigen ausgewählten Inhalt und er erscheint unter den Favoriten",
+        "recommendations": "Empfehlungen für Dich",
+        "mindful_break": "Achtsam @Pause",
+        "mindful_breath": "Achtsam @Breath",
+        "mindful_work": "Achtsam @Arbeit",
+        "swipe":"Swipe Up",
+        "offline": "Überprüfe deine Internetverbindung. Wenn Du offline bist, kannst du Deine Inhalte im ",
+        "section": "abspielen"
+    },
+    "Menutab": {
+        "home": "Home",
+        "mindfullness": "@Pause",
+        "challenges": "Challenges",
+        "work": "@Arbeit",
+        "breath": "@Atem",
+        "more": "Mehr"
+    },
+    "Mindfulness": {
+        "mindfulness": "Achtsamkeit",
+        "sleep": "Schlafen",
+        "music": "Musik",
+        "walk": "Achtsames Gehen",
+        "nointernet": "Keine Internetverbindung. Du kannst weiterhin Inhalte im Download-Bereich abspielen."
+    },
+    "Work": {
+        "desk": "Achtsam @Büro",
+        "streching": "Desktop Stretching",
+        "micro": "Mikro-Momente",
+        "meetings": "Achtsame Meetings"
+    },
+    "Breath": {
+        "tools": "Atemübungen",
+        "course": "Atemübungen aus dem Training"
+    },
+    "More": {
+        "sleep": "Schlafen  ",
+        "music":"Musik",
+        "teachers": "Trainer",
+        "workshop": "Workshop Materialien",
+        "settings" :"Einstellungen",
+        "faq": "FAQ  ",
+        "downloads": "Meine Downloads ",
+        "weeklyphrases": "Wöchentliche Inspiration"
+    },
+    "Weeklyphrases": {
+        "weeklyphrases": "Weekly Phrases",
+        "notificationtitle": "Weekly inspiration",
+        "notificationbody": "Check the new weekly inspiration",
+        "gotoinspiration": "Gehe zur Inspiration"
+    },
+    "Settings": {
+        "name":"Name",
+        "email":"E-Mail",
+        "password":"Passwort",
+        "currentpassword": "Aktuelles Passwort eingeben",
+        "company":"Firma",
+        "language":"Sprache",
+        "workshopcode": "Workshop-Code",
+        "notifications":"Benachrichtigungen",
+        "enter_password": "Gebe ein neues Passwort ein, um es zu ändern",
+        "enter_newemail": "Gib eine neue E-Mail ein, um sie zu ändern",
+        "change_password": "Passwort oder E-Mail ändern",
+        "click":"Klicke hier, um das Konto zu löschen",
+        "allow": "Benachrichtigungen auf diesem Gerät zulassen",
+        "about" : "Über TLEX",
+        "update": "Aktualisieren",
+        "logout": "Abmelden",
+        "optout": "Analyse",
+        "stopanalytics": "Nutzungsanalysen nicht weitergeben",
+        "profile": "Profil", 
+        "account": "Konto", 
+        "notification": "Benachrichtigung",
+        "workshopnotfound": "Workshop-Code nicht gefunden. Lasse diese Zeile leer.",
+        "delete_error":"Fehler beim Löschen des Benutzerkontos.",
+        "passwordincorrect": "Tatsächliches Passwort falsch",
+        "delete_user": "Benutzerkonto löschen",
+        "del_usr_msg": "Möchtest Du Dein Benutzerkonto wirklich löschen? ",
+        "cancel": "Abbrechen"
+    },
+    "Suscription":{
+        "title":"Abonnement kaufen"
+    },
+    
+    "Audios": {
+        "background": "Hintergrundgeräusche",
+        "downloadsadded": "Zu Downloads hinzugefügt",
+        "downloadsremoved": "Aus Downloads entfernt",
+        "found": "Nehmen Sie sich mit dieser Uebung einen achtsamen Moment fuer sich: "
+    },
+    "Meditation":{
+        "congrats" : "Herzlichen Glückwunsch!",
+        "Complete":"Fertig",
+        "completed":"Du hast abgeschlossen",
+        "seconds":"Sekunden",
+        "minutes":"Minuten",
+        "of_mindfulness":"Achtsamkeit",
+        "back":"Zurück zu"
+    },
+    "Workshop":
+    {
+        "workshop": "Workshop Materialien",
+        "only":"nur für den Workshop"
+    },
+    "Notification": {
+        "title" : "Benachrichtigung",
+        "set": "Benachrichtigung einstellen",
+ 	  "remind": "Erinnere mich an diesen Tagen:",
+        "time": "Zu dieser Zeit:",
+        "config_cha": "Challenge-Benachrichtigung",
+        "config_sleep": "Schlaf-Benachrichtigung", 
+        "config_mind": "Achtsamkeits-Benachrichtigung",
+        "change":"Benachrichtigungszeit ändern",
+        "allow": "Benachrichtigungen für dieses Gerät zulassen",
+        "day0": "So",
+        "day1": "Mo",
+        "day2": "Di",
+        "day3": "Mi",
+        "day4": "do", 
+        "day5": "Fr",
+        "day6": "Sa" 
+    },
+    "FAQ": {
+        "Q1": "Wie kann ich mein Passwort ändern?",
+        "R1": "Gehe zur Symbolleiste > Mehr > Einstellungen > Aktiviere 'Mein Passwort ändern' > Neues Passwort eingeben > Klicke auf  Aktualisieren > Abmelden.\n",
+        "Q2": "Wie kann ich mein Konto dauerhaft löschen?",
+        "R2":"Gehe zur Symbolleiste > Mehr > Einstellungen > Aktiviere 'Operationen, die das aktuelle Passwort erfordern' > Vervollständige Dein aktuelles Passwort > Konto löschen > Bestätige durch klicken von 'Benutzer löschen' > WARNUNG: Alle deine Daten, Challenges und Fortschritte werden dauerhaft gelöscht.\n",
+        
+        "Q3": "Wie kann ich Favoriten hinzufügen/entfernen?",
+        "R3": "Für jeden Video- oder Audioinhalt kannst Du auf das Herz in der oberen rechten Ecke tippen, um ihn zu Deinen Favoriten hinzuzufügen. Wenn Du Inhalte aus den Favoriten entfernen möchtest, tippe erneut auf das Herz und die Markierung wird aufgehoben.\n",
+        "Q4": "Meine App stürzt ab.",
+        "R4": "Befolge diese Schritte, wenn Du ein iPhone benutzt \n\n Starte Dein iPhone neu\n Aktualisiere Deine App\n Installiere die App neu\n Aktualisiere Deine iPhone-Software\n DFU stellt Dein iPhone wieder her (siehe YouTube-Kanäle, um zu erfahren, wie Du dies für Dein Telefonmodell tun kannst)\n\n Befolge diese Schritte, wenn Du ein Android-Gerät verwendest\n\n Starte Dein Gerät neu\n Installiere die App neu\n App-Daten und Cache löschen\n Sicherstellen einer stabilen WiFi-Verbindung\n Löschen der Cache-Partition \n",
+        "Q5":"Wie richte ich die App so ein, dass ich während der Meditation keine Benachrichtigungen erhalte?",
+        "R5":"Gehe auf deinem iPhone auf 'Einstellungen'  > 'Bitte nicht stören' > Schalte dies ein und scrolle nach unten, um Deine eigenen Präferenzen einzurichten (Nicht stören > Wird immer sicherstellen, dass Du keine Benachrichtigungen erhältst. Dann überprüfe Deine Einstellungen für Anrufe).\n\nIn Android Einstellungen > Sounds > Nicht stören > Im Menü 'Nur Priorität zulassen' (bei Samsung-Geräten als 'Ausnahmen zulassen' gekennzeichnet), stellen Sie die Optionen für Nachrichten und Anrufe auf 'Nur von Stern Kontakten' (oder 'Nur von Favoriten Kontakten' bei Samsung).\n",
+        "Q6":"Wie verwalte ich die Einstellungen, wenn ich bei der Benutzung der App einschlafen möchte?",
+        "R6":"Gehe auf deinem iPhone auf Einstellungen > Nicht stören > Schalte das Gerät ein und scrolle nach unten, um deine eigenen Einstellungen einzurichten (Stille > Immer wird sichergestellt, dass du keine Benachrichtigungen erhältst. Überprüfe dann Deine Präferenzen für Anrufe). Du kannst auch zu Einstellungen gehen > Anzeige und Helligkeit und scrolle nach unten, um 'automatische Sperre' auf 2 Minuten einzustellen. Deine Achtsamkeitsübung läuft auch dann weiter, wenn Dein Bildschirm gesperrt ist.\n\nIn Android gehe zu Einstellungen > Display > Schlaf (Dein Gerät zeigt Dir vielleicht 'Bildschirm-Timeout' oder etwas Ähnliches an) > Wähle einfach die Zeitspanne, die für Dich am besten geeignet ist.\n", 
+        "Q7":"Wie kann ich alle App-Benachrichtigungen ausschalten?",
+        "R7":"Gehen Sie zum App-Menü Mehr > Einstellungen > Schalte die Schaltfläche mit der Aufschrift 'Benachrichtigungen auf diesem Gerät zulassen' aus.\n",
+        "Q8":"Warum ist es vorteilhaft, Atemtechniken und nicht nur Achtsamkeitsübungen zu machen? ",
+        "R8":"Atemübungen helfen uns, zu entspannen. Der Atem ist eng mit unserem vegetativen (oder autonomen) Nervensystem verbunden, das Organe und Organsysteme steuert und reguliert und den Wechsel zwischen Anspannung und Entspannung im menschlichen Organismus kontrolliert. Tatsächlich ist die Atmung für den Menschen die einzige Möglichkeit, bewusst Einfluss auf das autonome Nervensystem zu nehmen. Wenn wir lang und tief atmen, wird der Vagusnerv (Teil des autonomen Nervensystems) stimuliert, was eine beruhigende Wirkung hat, da Herzfrequenz und Blutdruck sinken und die Muskeln sich entspannen.\nDaher ist die bewusste Atmung ein mächtiger Mechanismus, um ruhig und konzentriert zu bleiben und gleichzeitig unseren Geist im gegenwärtigen Moment zu verankern.\nDie Forschung zeigt, dass die bewusste Atmung einen tiefgreifenden heilenden Einfluss auf unsere Physiologie hat, und sie ist eine der einfachsten Möglichkeiten, um einen Reset durchzuführen.  Das Innehalten einiger tiefer Atemzüge kann es uns ermöglichen, die negativen Gedanken loszulassen, eine tiefere Erfahrung der Achtsamkeit zu machen und mit frischen Augen, Energie und Enthusiasmus in die nächste Aktivität oder Interaktion zu gehen.\n",
+        "Q9":"Was sind die Vorteile von Achtsamkeitsübungen?",
+        "R9":"Die Vorteile der Achtsamkeit sind zahllos. Untersuchungen haben ergeben, dass Achtsamkeitsübungen helfen:\n\nStress zu reduzieren\n Verbesserung des Gedächtnisses \nDepressive Gedanken verringern\nFokus verbessern\nBessere Beziehungszufriedenheit\nVerringern des Grübelns\nÄngste abbauen\nVerbesserung der Schlafqualität\nEinfühlungsvermögen und Mitgefühl verbessern\nzur allgemeinen Verbesserung der Lebensqualität beitragen \n\nMeditationspraxis kann sogar die Struktur des Gehirns verändern, wie ein Forscherteam von der Universität Gießen, dem Massachusetts General Hospital und der Harvard Medical School in Boston gezeigt hat. Das Forscherteam fand heraus, dass die 8-wöchige Meditationspraxis Veränderungen in der Dichte der grauen Substanz des Gehirns bewirkt, insbesondere in Hirnregionen, die für Stressreaktionen, Empathie, Selbstwahrnehmung und Gedächtnis verantwortlich sind.\n",
+        "Q10":"Wird mir die Benutzung dieser App in Rechnung gestellt?",
+        "R10":"Auf die erste Version der TLEX-Flow-App kann über einen Code zugegriffen werden, den Du von Deinem Unternehmen oder den TLEX-Trainern erhalten kannst. Die zweite Version wird beim Kauf der App mitgeliefert.\n",            
+        "Q11":"Wer sind die Trainer, die die Achtsamkeitstechniken anleiten?",
+        "R11":"Die TLEX-Trainer sind aus der ganzen Welt. Sie kommen aus verschiedenen Ländern, aus unterschiedlichen Lebensbereichen und sprechen neben Englisch viele verschiedene Sprachen. TLEX-Trainer sind Achtsamkeit Praktizierende mit jahrzehntelanger Erfahrung in der Ausbildung von Führungskräften in Unternehmen, Hochschulen und sozialen Organisationen, um andere Führungskräfte durch persönliche Spitzenleistungen zu inspirieren.\n",
+        "Q12":"Wie kann ich TLEX kontaktieren, um einen Workshop an meinem Arbeitsplatz zu leiten?",
+        "R12":"Du kannst uns eine E-Mail schicken an info@TLEXProgram.com .\n",
+        "Q13":"Wie kann ich mich sonst online mit TLEX verbinden?",
+        "R13":"TLEX Institute ist in den folgenden Social-Media-Plattformen vertreten \nLinkedin: https://www.linkedin.com/company/tlexinstitute/ \nFacebook: https://www.facebook.com/TLEXEurope/ \nInstagram: https://www.instagram.com/tlexinstitute/ \nTwitter: https://twitter.com/tlexinstitute?lang=de \nKontaktiere uns \nWenn Du in den obigen Artikeln keine Antwort auf Deine Frage finden kannst, kannst Du uns direkt eine E-Mail schicken app@tlexinstitute.com\n",
+        "Q14":"Wie kann ich mein Monats- oder Jahresabonnement kündigen?",
+        "R14": "In iOS:\n - Öffne die Einstellungen auf Deinem iPhone.\n - Tippen auf Deinen Namen.\n - Tippe auf Abonnement. (Wenn Du Abonnements nicht sehen kannst, tippe stattdessen auf iTunes & AppStore)\n - Tippe auf das Abonnement, das Du verwalten möchtest\n - Tippe auf 'Abonnement kündigen'\n\n In Android:\n - Öffne auf  Deinem Android-Handy oder Tablet den Google Play Store\n - Überprüfe, ob Du im richtigen Google-Konto angemeldet bist\n - Tippe auf 'Menü'. Abonnements\n - Wähle das Abonnement, das Du kündigen möchtest.\n - Tippe auf 'Abonnement kündigen'\n - Folge den Anweisungen\n",
+        "Q15":"Wie funktionieren Monats- und Jahresabonnemente?",
+        "R15": "Bei Monats- und Jahresabonnemente ist der Premium-Zugang mit dem Shop-Konto des Benutzers (AppStore oder PlayStore) und nicht mit dem TLEX-Benutzerkonto verknüpft. Stelle immer sicher, dass Du dasselbe Shop-Konto auf allen Deinen Geräten verwendest, um den Premium-Zugang von TLEX Flow zu erhalten.\n",
+        "Q16":"Wie funktionieren Abonnements auf Lebenszeit?",
+        "R16": "Beim Kauf von Lifetime Access hat der Benutzer mit einem TLEX-Flow-Konto Zugang zu Premium-Inhalten auf jedem beliebigen Gerät.\n",
+        "Q17":"Hat mein Abonnement eine Probezeit?",
+        "R17": "Es gibt eine 7-tägige Probezeit, aber nur beim ersten Kauf eines Abonnements. Für den lebenslangen Zugang gibt es keine Testphase.\n",
+        "able": "Wenn Du in den obigen Artikeln keine Antwort auf Deine Frage finden kannst, kannst Du uns direkt eine E-Mail schicken."
+    },
+    "Download": {
+        "my_downloads": "Meine Downloads",
+        "empty" : "Derzeit gibt es noch keine Downloads" 
+    },
+    "About":{
+        "about" : "Über TLEX",
+        "desc": "TLEX GmbH \n Renggstrasse 33\n 6052 Hergiswil\n Switzerland \n\n\n Telefon: +41 4197 03873\n E-Mail: europe@tlexinstitute.com \n\n\n Geschäftsführung: Christoph Glaser, Marcel Verbay, Rajita Kulkarni\n Firmennummer: CHE-388.181.787\n Registriert im Handelsregisteramt des Kanton Nidwalden",
+        "back": "Back" 
+    },
+    "Share": {
+        "share":"Teilen",
+        "previous": "vorherige",
+        "current": "aktuell",
+        "platform_ask": "Do you want to share on Instagram story or other platform?",
+        "IGs": "Instagram stories"
+    }
+
+} 
