@@ -157,12 +157,13 @@
         "settings" :"Settings",
         "faq": "FAQ  ",
         "downloads": "My Downloads ",
-        "weeklyphrases": "Weekly Phrases"
+        "weeklyphrases": "Weekly Inspiration"
     },
     "Weeklyphrases": {
         "weeklyphrases": "Weekly Phrases",
         "notificationtitle": "Weekly inspiration",
-        "notificationbody": "Check the new weekly inspiration"
+        "notificationbody": "Check the new weekly inspiration",
+        "gotoinspiration": "Go to inspiration"
     },
     "Settings": {
         "name":"Name",
@@ -287,7 +288,10 @@
     "Share": {
         "share":"Share",
         "previous": "previous",
-        "current": "current"
+        "current": "next",
+        "platform_ask": "Wo möchten Sie teilen ?",
+        "IGs": "Instagram Stories"
+
 
     }
 }

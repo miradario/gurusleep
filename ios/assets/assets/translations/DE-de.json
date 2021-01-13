@@ -154,7 +154,14 @@
         "workshop": "Workshop Materialien",
         "settings" :"Einstellungen",
         "faq": "FAQ  ",
-        "downloads": "Meine Downloads "
+        "downloads": "Meine Downloads ",
+        "weeklyphrases": "Wöchentliche Inspiration"
+    },
+    "Weeklyphrases": {
+        "weeklyphrases": "Weekly Phrases",
+        "notificationtitle": "Weekly inspiration",
+        "notificationbody": "Check the new weekly inspiration",
+        "gotoinspiration": "Gehe zur Inspiration"
     },
     "Settings": {
         "name":"Name",
@@ -277,8 +284,9 @@
     "Share": {
         "share":"Teilen",
         "previous": "vorherige",
-        "current": "aktuell"
-
+        "current": "aktuell",
+        "platform_ask": "Do you want to share on Instagram story or other platform?",
+        "IGs": "Instagram stories"
     }
 
 } 

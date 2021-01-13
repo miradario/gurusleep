@@ -35,9 +35,6 @@ target 'TLEXFlow' do
   pod 'DoubleConversion', :podspec => "#{rnPrefix}/third-party-podspecs/DoubleConversion.podspec"
   pod 'glog', :podspec => "#{rnPrefix}/third-party-podspecs/glog.podspec"
   pod 'Folly', :podspec => "#{rnPrefix}/third-party-podspecs/Folly.podspec"
-
-  # Other native modules
-  pod 'BNFMatomo', :podspec => '../node_modules/react-native-matomo/BNFMatomo.podspec'
   
   # Automatically detect installed unimodules
   use_unimodules!

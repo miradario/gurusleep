@@ -1,5 +1,4 @@
 PODS:
-  - BNFMatomo (0.1.2)
   - boost-for-react-native (1.63.0)
   - DoubleConversion (1.1.6)
   - EXApplication (2.3.0):
@@ -8,12 +7,12 @@ PODS:
     - UMCore
     - UMFileSystemInterface
     - UMPermissionsInterface
-  - EXConstants (9.2.0):
+  - EXConstants (9.3.5):
     - UMConstantsInterface
     - UMCore
   - EXErrorRecovery (1.3.0):
     - UMCore
-  - EXFileSystem (9.2.0):
+  - EXFileSystem (9.3.0):
     - UMCore
     - UMFileSystemInterface
   - EXFont (8.3.0):
@@ -61,12 +60,12 @@ PODS:
     - React-Core (= 0.63.3)
     - React-jsi (= 0.63.3)
     - ReactCommon/turbomodule/core (= 0.63.3)
-  - Firebase/CoreOnly (7.1.0):
-    - FirebaseCore (= 7.1.0)
-  - Firebase/DynamicLinks (7.1.0):
+  - Firebase/CoreOnly (7.3.0):
+    - FirebaseCore (= 7.3.0)
+  - Firebase/DynamicLinks (7.3.0):
     - Firebase/CoreOnly
-    - FirebaseDynamicLinks (~> 7.1.0)
-  - FirebaseCore (7.1.0):
+    - FirebaseDynamicLinks (~> 7.3.0)
+  - FirebaseCore (7.3.0):
     - FirebaseCoreDiagnostics (~> 7.0)
     - GoogleUtilities/Environment (~> 7.0)
     - GoogleUtilities/Logger (~> 7.0)
@@ -75,7 +74,7 @@ PODS:
     - GoogleUtilities/Environment (~> 7.0)
     - GoogleUtilities/Logger (~> 7.0)
     - nanopb (~> 2.30906.0)
-  - FirebaseDynamicLinks (7.1.0):
+  - FirebaseDynamicLinks (7.3.0):
     - FirebaseCore (~> 7.0)
   - Folly (2020.01.13.00):
     - boost-for-react-native
@@ -281,7 +280,7 @@ PODS:
     - React-cxxreact (= 0.63.3)
     - React-jsi (= 0.63.3)
   - React-jsinspector (0.63.3)
-  - react-native-netinfo (5.9.7):
+  - react-native-netinfo (5.9.10):
     - React-Core
   - react-native-restart (0.0.17):
     - React
@@ -355,23 +354,23 @@ PODS:
     - React-jsi (= 0.63.3)
   - RNCAsyncStorage (1.12.1):
     - React-Core
-  - RNCCheckbox (0.5.5):
-    - React
+  - RNCCheckbox (0.5.7):
+    - React-Core
   - RNCMaskedView (0.1.10):
     - React
   - RNDateTimePicker (3.0.0):
     - React
-  - RNFBApp (10.0.0):
-    - Firebase/CoreOnly (~> 7.1.0)
+  - RNFBApp (10.4.0):
+    - Firebase/CoreOnly (~> 7.3.0)
     - React-Core
-  - RNFBDynamicLinks (10.0.0):
-    - Firebase/DynamicLinks (~> 7.1.0)
+  - RNFBDynamicLinks (10.4.1):
+    - Firebase/DynamicLinks (~> 7.3.0)
     - GoogleUtilities/AppDelegateSwizzler
     - React-Core
     - RNFBApp
   - RNGestureHandler (1.7.0):
     - React
-  - RNIap (5.1.1):
+  - RNIap (5.2.3):
     - React-Core
   - RNPurchases (3.4.3):
     - PurchasesHybridCommon (= 1.4.5)
@@ -380,7 +379,7 @@ PODS:
     - React-Core
   - RNScreens (2.10.1):
     - React
-  - RNShare (4.1.0):
+  - RNShare (4.1.2):
     - React-Core
   - RNSVG (12.1.0):
     - React
@@ -406,11 +405,10 @@ PODS:
   - Yoga (1.14.0)
 
 DEPENDENCIES:
-  - BNFMatomo (from `../node_modules/react-native-matomo/BNFMatomo.podspec`)
   - DoubleConversion (from `../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`)
   - EXApplication (from `../node_modules/expo-application/ios`)
   - EXAV (from `../node_modules/expo-av/ios`)
-  - EXConstants (from `../node_modules/expo-constants/ios`)
+  - EXConstants (from `../node_modules/expo-linking/node_modules/expo-constants/ios`)
   - EXErrorRecovery (from `../node_modules/expo-error-recovery/ios`)
   - EXFileSystem (from `../node_modules/expo-file-system/ios`)
   - EXFont (from `../node_modules/expo-font/ios`)
@@ -503,8 +501,6 @@ SPEC REPOS:
     - PurchasesHybridCommon
 
 EXTERNAL SOURCES:
-  BNFMatomo:
-    :podspec: "../node_modules/react-native-matomo/BNFMatomo.podspec"
   DoubleConversion:
     :podspec: "../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec"
   EXApplication:
@@ -512,7 +508,7 @@ EXTERNAL SOURCES:
   EXAV:
     :path: "../node_modules/expo-av/ios"
   EXConstants:
-    :path: "../node_modules/expo-constants/ios"
+    :path: "../node_modules/expo-linking/node_modules/expo-constants/ios"
   EXErrorRecovery:
     :path: "../node_modules/expo-error-recovery/ios"
   EXFileSystem:
@@ -661,14 +657,13 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
 SPEC CHECKSUMS:
-  BNFMatomo: 65746dc9505cd85bac4119e6c65fd7b8e0edfad9
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   DoubleConversion: cde416483dac037923206447da6e1454df403714
   EXApplication: c346c5ab7d1a4607f1863e93490b79fe838148b1
   EXAV: 1f679b57367f8889b5ea15067413c9e2d95039fb
-  EXConstants: f486f6b4a36b86e47ab258d4d2b7b2699786fdce
+  EXConstants: 54d0bf04319d1692c6c7bc03ca151ef7a71705a4
   EXErrorRecovery: 16696fe023fb46a32c3b09033abc361cfcf150a7
-  EXFileSystem: afe9b1fd937d30270bf5108ba44e2f4a1d1ad694
+  EXFileSystem: 0e4974ab77bff04cda68d2886d070cbe64b93a6b
   EXFont: a6a4353271395f3bb4ee528b52a5035b4b0e412a
   EXImageLoader: 7153fb1307ac643299a9072b71da0d276f4c7789
   EXInAppPurchases: c647953e5e1dad71bbda2e3bb92966dac440ede4
@@ -684,10 +679,10 @@ SPEC CHECKSUMS:
   EXUpdates: 74b39409f68eca207075d87b0077bdf37865a8bf
   FBLazyVector: 878b59e31113e289e275165efbe4b54fa614d43d
   FBReactNativeSpec: 7da9338acfb98d4ef9e5536805a0704572d33c2f
-  Firebase: 78e8dd2e39d653de6270432ad84fe8b59f7bf4e8
-  FirebaseCore: 20046127eef0fcb8fa25df7fc12f7b97d4e48611
+  Firebase: 26223c695fe322633274198cb19dca8cb7e54416
+  FirebaseCore: 4d3c72622ce0e2106aaa07bb4b2935ba2c370972
   FirebaseCoreDiagnostics: d50e11039e5984d92c8a512be2395f13df747350
-  FirebaseDynamicLinks: dadf4564851de0ecdad2dab7fc2d1c401dcaa406
+  FirebaseDynamicLinks: 8af566648187c9ae60c9bf890251bd5f5c974e09
   Folly: b73c3869541e86821df3c387eb0af5f65addfab4
   glog: 40a13f7840415b9a77023fbcae0f1e6f43192af3
   GoogleDataTransport: 116c84c4bdeb76be2a7a46de51244368f9794eab
@@ -707,7 +702,7 @@ SPEC CHECKSUMS:
   React-jsi: df07aa95b39c5be3e41199921509bfa929ed2b9d
   React-jsiexecutor: b56c03e61c0dd5f5801255f2160a815f4a53d451
   React-jsinspector: 8e68ffbfe23880d3ee9bafa8be2777f60b25cbe2
-  react-native-netinfo: 250dc0ca126512f618a8a2ca6a936577e1f66586
+  react-native-netinfo: 30fb89fa913c342be82a887b56e96be6d71201dd
   react-native-restart: d19a0f8d053d065fe64cd2baebb6487111c77149
   react-native-safe-area-context: eb91fe1fb3f7b87d9c30a7f0808407d8569d539d
   react-native-slider: e99fc201cefe81270fc9d81714a7a0f5e566b168
@@ -724,17 +719,17 @@ SPEC CHECKSUMS:
   React-RCTVibration: 8e9fb25724a0805107fc1acc9075e26f814df454
   ReactCommon: 4167844018c9ed375cc01a843e9ee564399e53c3
   RNCAsyncStorage: b03032fdbdb725bea0bd9e5ec5a7272865ae7398
-  RNCCheckbox: 5313bf49c2977c1c8f7135434fc01dc80f86bf0b
+  RNCCheckbox: d1749e6a92178ce5dbc31e63becd1f34f0c76bbd
   RNCMaskedView: 5a8ec07677aa885546a0d98da336457e2bea557f
   RNDateTimePicker: f47a6309133c6d013ad6942fc83b753b3f6e41d6
-  RNFBApp: dd793eec42bce8d09391bd95e42f2ed7511e7fef
-  RNFBDynamicLinks: c70a71561ab02b8f070bc14d025aae5eedd323cb
+  RNFBApp: a9af8372c9c2b2135ffa78817fd2d8baf3ee632e
+  RNFBDynamicLinks: 3a0f1cfedf3e857fa71848d608b4442f6df810da
   RNGestureHandler: b6b359bb800ae399a9c8b27032bdbf7c18f08a08
-  RNIap: c0377981dfabe50887c5d1ff110011ed9b7cb6f3
+  RNIap: ff51c3dd160cd2e40f7f905ebc1bcfb7d34c7d15
   RNPurchases: 2d9a3f50c5b4924fc2b79e3c548d7ccb4217f355
   RNReanimated: e03f7425cb7a38dcf1b644d680d1bfc91c3337ad
   RNScreens: b748efec66e095134c7166ca333b628cd7e6f3e2
-  RNShare: 106a76243ac90f43ddb9028dcb78ade406b8adff
+  RNShare: d22507fa5e80c72f236b5622556cf831de5b1e93
   RNSVG: ce9d996113475209013317e48b05c21ee988d42e
   RNVectorIcons: 368d6d8b8301224e5ffb6254191f4f8876c2be0d
   UMAppLoader: 5db5dc03176c6238da9c8b3657a370137882a4ad
@@ -752,6 +747,6 @@ SPEC CHECKSUMS:
   UMTaskManagerInterface: 6cad5929dbc0a5b986ad4d77caac497d4de730a7
   Yoga: 7d13633d129fd179e01b8953d38d47be90db185a
 
-PODFILE CHECKSUM: a0d99278908bc6dd8f90c4f213c144ce1e70f3bf
+PODFILE CHECKSUM: 2d4d1a9555c425d0e9e0aa97b4acfb1325b0142b
 
 COCOAPODS: 1.10.0

@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:TLEXFlow.xcodeproj">
+      location = "group:/Users/asobralr/Projects/bareflow/gurusleep/ios/GuruSleep.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
